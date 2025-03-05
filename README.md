@@ -2,19 +2,6 @@ React App Starter Guide
 
 This project is built with Create React App and provides a solid foundation for building scalable and performant React applications.
 
-📂 Project Structure
-
-.
-├── src
-│   ├── components       # Reusable UI components
-│   ├── services         # API calls and external data fetching
-│   ├── pages            # Page-level components
-│   ├── assets           # Static files like images and fonts
-│   └── App.tsx          # Main app entry point
-├── public               # Public assets
-├── package.json         # Project dependencies and scripts
-└── README.md            # Project documentation
-
 🚀 Getting Started
 
 1️⃣ Install Dependencies
